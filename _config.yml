@@ -3,9 +3,9 @@
 # See: https://theme-next.org/docs/theme-settings/
 # ---------------------------------------------------------------
 title: Who is YXQ?
-subtitle: The following is you answer!!!
+#subtitle: The following is you answer!!!
 
-description: I'm always read to learn eager to know,and happy to welcome you!!!
+description: The following is you answer!!!
 
 # If false, merge configs from `_data/next.yml` into default configuration (rewrite).
 # If true, will fully override default configuration by options from `_data/next.yml` (override). Only for NexT settings.
